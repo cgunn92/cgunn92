@@ -1,6 +1,6 @@
 - Hi, I’m Caleb!
-- I’m interested in fintech, database applications, and building web/desktop applications
-- I’m currently learning Core Java
+- I’m interested in fintech, database applications, and building web applications.
+- I’m currently learning javascript, CSS, and HTML by going through [The Odin Project](https://www.theodinproject.com/)
 - I’m looking to collaborate on just about anything! I want to learn as much as I can!
 - How to reach me: by email at nominetrinitatis@gmail.com
 
