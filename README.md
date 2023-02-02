@@ -1,8 +1,8 @@
 - Hi, I’m Caleb!
-- I’m interested in fintech, database applications, and building web applications.
-- I’m currently learning javascript, CSS, and HTML by going through [The Odin Project](https://www.theodinproject.com/)
+- I’m interested in data analysis, fintech, and database applications.
+- I’m currently learning data analysis with excel, python, SQL, and Tableau (not necessarily in that order).
 - I’m looking to collaborate on just about anything! I want to learn as much as I can!
-- How to reach me: by email at nominetrinitatis@gmail.com
+- How to reach me: by email at cgunn9@liberty.edu
 
 <!---
 cgunn92/cgunn92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
